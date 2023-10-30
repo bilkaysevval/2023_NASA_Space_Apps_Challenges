@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723179285746",
+    "project_id": "nasa-52901",
+    "storage_bucket": "nasa-52901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723179285746:android:a50e7f8e75d5732639f46b",
+        "android_client_info": {
+          "package_name": "com.NASA_Space_Apps_Challenge.nasa_space_spps_challenge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB59BO9fM8N06BLkAjez-dm9LEd4fKG-tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
